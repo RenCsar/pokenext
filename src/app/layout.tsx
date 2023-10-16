@@ -18,7 +18,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-br">
-      <body className={inter.className + "h-screen"}>
+      <body className={inter.className + "min-h-screen flex flex-col"}>
         <header className='sticky top-0'>
           <Navbar />
         </header>

@@ -17,8 +17,8 @@ const Navbar = () => {
                 <Image
                     src={Ball}
                     alt='logo'
-                    width={45}
-                    height={40}
+                    width={25}
+                    height={20}
                 />
                 <h1 className='font-bold'>PokeNext</h1>
             </div>

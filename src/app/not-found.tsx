@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 const NotFound = () => {
   return (
-    <main className={"flex min-h-screen flex-col items-center justify-center text-white "}>
+    <main className={"flex flex-col items-center justify-center text-white min-h-[550px]"}>
       <Image
         src={Error}
         width={600}
