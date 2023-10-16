@@ -1,8 +1,8 @@
 'use client';
-import Card from '@/components/Card';
-import { TPokemons } from '@/utils/types';
-import Image from 'next/image';
 import { useEffect, useState } from 'react';
+import { TPokemons } from '@/utils/types';
+import Card from '@/components/Card';
+import Image from 'next/image';
 import Pokeball from './../../public/images/pokeball.png'
 
 export default function Home() {

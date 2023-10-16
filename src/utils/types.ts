@@ -12,3 +12,15 @@ export type TPokemons = {
 export type TPokemonsProps = {
     pokemons: TPokemons[]
 }
+
+export type TPokemonType = {
+    slot: number,
+    type: {
+        name: string,
+        url: string,
+    }
+}
+
+export type TParams = {
+    params: { pokemonId: string },
+}
