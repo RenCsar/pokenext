@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">Todos os seus Pokémons favoritos em um só lugar.</p>
-<p align="center">Acesse o site da <a href="https://rc-pokenext.vercel.app/">PokeNext</a>.</p>
+<p align="center">Acesse o site da <a href="https://rc-pokenext.vercel.app/" target="_blank">PokeNext</a>.</p>
 
 <p align="center">
  <a href="#Descrição">Descrição</a> •
