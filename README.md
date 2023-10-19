@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<h1 align="center">
+ <img align="center" width="150" height="150" src=""><br>
+ PokeNext</a>
+</h1>
 
-First, run the development server:
+<p align="center">Todos os seus gadgets favoritos em um só lugar.</p>
+<p align="center">Acesse o site da <a href="">PokeNext</a>.</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+ <a href="#Descrição">Descrição</a> •
+ <a href="#Tecnologias">Tecnologias utilizadas</a> •
+ <a href="#autor">Autor</a>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<br>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+<h1 align="center">  
+  <p align="center">
+  <img width="800" height="400" src="public/site.gif"><br><br>
+  <img width="200" height="400" src="public/mobile.gif"><br><br>
+  <img width="800" height="400" src="public/toast-erro.gif">
+</p>
 
-To learn more about Next.js, take a look at the following resources:
+</h1>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<a id="Descrição"></a>
+### Descrição
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+O projeto consiste em um e-commerce responsivo focando na acessibilidade e SEO. Nele é possível adicionar itens ao carrinho, escolher a quantidade de cada item, retirar itens e limpar o carrinho.
 
-## Deploy on Vercel
+A aplicação foi desenvolvida com as tecnologias **React Js** e **Typescript** no frontend e **Node JS**, **Typescript** e **Express** no backend (<a href="https://github.com/RenCsar/TECH-shopping-api" target="_blank">veja o repositório do backend clicando aqui</a>). 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Sobre as tecnologias utilizadas: as rotas da aplicação foram feitas com o **React Router Dom**, a estilização feita com **Styled Components** e **Material UI**, o gerenciamento de estado foi feito com **Redux** (Toolkit), as requisições foram feitas com **Redux Thunk** e **Axios** e para sinalizar ao usuário possíveis erros da aplicação foi utilizado foi utilizado a biblioteca **toastify**.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<a id="Tecnologias"></a>
+### Tecnologias utilizadas
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- Next JS
+- Typescripts
+- Tailwind
+
+---
+
+### Autor
+
+Made with 💜 by Renan Cesar 👋
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Renan_Cesar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-cesar/)](https://www.linkedin.com/in/renan-cesar/)
