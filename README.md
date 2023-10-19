@@ -1,11 +1,11 @@
 
 <h1 align="center">
- <img align="center" width="150" height="150" src=""><br>
+ <img align="center" width="120" height="120" src="./public/images/pokeball.png"><br>
  PokeNext</a>
 </h1>
 
-<p align="center">Todos os seus gadgets favoritos em um só lugar.</p>
-<p align="center">Acesse o site da <a href="">PokeNext</a>.</p>
+<p align="center">Todos os seus Pokémons favoritos em um só lugar.</p>
+<p align="center">Acesse o site da <a href="https://rc-pokenext.vercel.app/">PokeNext</a>.</p>
 
 <p align="center">
  <a href="#Descrição">Descrição</a> •
@@ -20,9 +20,9 @@
 
 <h1 align="center">  
   <p align="center">
-  <img width="800" height="400" src="public/site.gif"><br><br>
-  <img width="200" height="400" src="public/mobile.gif"><br><br>
-  <img width="800" height="400" src="public/toast-erro.gif">
+  <img width="800" height="400" src="./public/images/p1.png"><br><br>
+  <img width="800" height="400" src="./public/images/p2.png"><br><br>
+  <img width="800" height="400" src="./public/images/p3.png">
 </p>
 
 </h1>
@@ -44,6 +44,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Next JS
 - Typescripts
 - Tailwind
+- Fetch API
 
 ---
 
